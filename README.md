@@ -1,8 +1,8 @@
-# New Empty Python Project Base
+# [New Empty Python Project Base](https://github.com/guillaume-chevalier/New-Empty-Python-Project-Base)
 
 > This is just what you need to start a new Python project.
 
-Simply use this project template to start new python projects. Rename the "project" folder and all references to this folder to customize your project name. 
+Simply use this project template to start new python projects. Rename the "project" folder and all references to this folder to customize your project name.
 
 ## License
 
@@ -10,5 +10,4 @@ Simply use this project template to start new python projects. Rename the "proje
 
 To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.
 
-Citations that link to this repository will be appreciated, but are not required. 
-
+Citations that link to this repository will be appreciated, but are not required.
