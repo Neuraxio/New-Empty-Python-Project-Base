@@ -1,0 +1,4 @@
+setuptools
+pytest==4.3.1
+pytest-cov==2.6.1
+
