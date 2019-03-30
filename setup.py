@@ -6,7 +6,7 @@ Created by Guillaume Chevalier:
 License: CC0-1.0 (Public Domain)
 """
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 with open('README.md') as _f:
     _README_MD = _f.read()
@@ -24,9 +24,9 @@ setup(
     ],
     url='https://github.com/..../....',  # TODO.
     download_url='https://github.com/.../.../tarball/{}'.format(_VERSION),  # TODO.
-    author='Neuraxio Inc.',
-    author_email='guillaume.chevalier@neuraxio.com',
-    packages=['project'],  # TODO.
+    author='Neuraxio Inc.',  # TODO.
+    author_email='guillaume.chevalier@neuraxio.com',  # TODO.
+    packages=find_packages(include=['project*']),  # TODO.
     test_suite="testing",
     setup_requires=["pytest-runner"],
     tests_require=["pytest", "pytest-cov"],
