@@ -2,7 +2,13 @@
 
 > This is just what you need to start a new Python project.
 
-Simply use this project template to start new python projects. Rename the "project" folder and all references to this folder to customize your project name.
+Simply use this project template to start new python projects. 
+
+## Usage
+
+1. Rename the `project/` folder and all references to this folder to customize your project name.
+2. You can run tests by running `pytest` in the root, or by running `python3 setup.py test`. Code coverage is enabled by default. 
+3. Start coding in your renamed project folder and add tests under the `testing/` folder! 
 
 ## License
 
