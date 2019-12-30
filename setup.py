@@ -31,8 +31,9 @@ setup(
     test_suite="testing",
     setup_requires=["pytest-runner"],
     tests_require=["pytest", "pytest-cov"],
+    install_requires=["neuraxle"],
     include_package_data=True,
-    license='TODO',  # TODO: set license string. 
+    license='TODO',  # TODO: set your license string. 
     keywords='empty project TODO keywords'
 )
 
