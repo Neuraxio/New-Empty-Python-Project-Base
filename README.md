@@ -18,6 +18,10 @@ Then:
 4. Start coding in your now-renamed project folder and add some more tests under the `testing/` folder!
 5. [Upload](https://packaging.python.org/tutorials/packaging-projects/) your project as a package on [PyPI](https://pypi.org/), the Python Package Index, to make it available on `pip`! (optional)
 
+## Deploying your new package to PyPI
+
+To do that, read my short step by step guide on [How to deploy a new package (or version of package) to PyPI](https://github.com/Neuraxio/Neuraxle/wiki/How-to-deploy-a-new-package-(or-version-of-package)-to-PyPI). 
+
 ## Understanding how this template works
 
 The article [The optimal python project structure](https://awaywithideas.com/the-optimal-python-project-structure/) by Luke Tonin does a good job at explaining how a template like the present one works. The present template is a bit more complete and complex than in the article, thought, as it already includes a test suite (including a starter test example), and a thorough `setup.py` file for your project to be properly packaged.
