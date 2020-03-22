@@ -24,7 +24,7 @@ To do that, read my short step by step guide on [How to deploy a new package (or
 
 ## Understanding how this template works
 
-The article [The optimal python project structure](https://awaywithideas.com/the-optimal-python-project-structure/) by Luke Tonin does a good job at explaining how a template like the present one works. The present template is a bit more complete and complex than in the article, thought, as it already includes a test suite (including a starter test example), and a thorough `setup.py` file for your project to be properly packaged.
+The article [The optimal python project structure](https://awaywithideas.com/the-optimal-python-project-structure/?ref=gucci_neuraxio) by Luke Tonin does a good job at explaining how a template like the present one works. The present template is a bit more complete and complex than in the article, thought, as it already includes a test suite (including a starter test example), and a thorough `setup.py` file for your project to be properly packaged.
 
 ## License
 
