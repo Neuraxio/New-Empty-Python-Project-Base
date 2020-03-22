@@ -8,7 +8,7 @@ Simply use this project template to start new python projects.
 
 Automatically create a new project based on this template by [clicking here on `Use this template`](https://github.com/Neuraxio/New-Empty-Python-Project-Base/generate), or by clicking on the button above in the repo, as depicted in the image below. If you don't use GitHub, you may as well simply clone this repository. 
 
-![](how_to_use_template.jpg)
+[![](how_to_use_template.jpg)](https://github.com/Neuraxio/New-Empty-Python-Project-Base/generate)
 
 Then:
 
